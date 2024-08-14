@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Create-Website-Using-React-/static/css/main.bfa733bc.css",
+    "main.js": "/Create-Website-Using-React-/static/js/main.d982f5ed.js",
+    "index.html": "/Create-Website-Using-React-/index.html",
+    "main.bfa733bc.css.map": "/Create-Website-Using-React-/static/css/main.bfa733bc.css.map",
+    "main.d982f5ed.js.map": "/Create-Website-Using-React-/static/js/main.d982f5ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa733bc.css",
+    "static/js/main.d982f5ed.js"
+  ]
+}
